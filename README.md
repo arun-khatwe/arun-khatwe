@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-khatwe&label=Profile%20views&color=0e75b6&style=flat" alt="arun-khatwe" /> </p>
 
-- 📫 How to reach me **aaronlewis289@gmail.com**
+- 📫 How to reach me **nano.aruninfo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
